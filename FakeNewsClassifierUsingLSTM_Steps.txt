@@ -1,0 +1,10 @@
+Steps
+=======
+
+1. DataSet
+2. Independent feature and depedent feature
+3. cleaning the data and optimize 1)Stemming 2)One-Hot
+4. One Hot Encoding and fix the length 
+5. Embedding layer 
+6. LSTM neural network
+7. Check with dropout
